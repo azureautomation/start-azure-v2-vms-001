@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3635,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-azure-v2-vms#001/master/Start-AzureV2VMs.ps1",
+    "DownloadCount": 14477,
+    "Id": "Start-Azure-V2-VMs-6352312e",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 6,
+    "RaterCount": 4,
+    "Rating": 4.5,
+    "ReleaseDate": "2016-1-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell script runbook connects to Azure and starts all VMs in an Azure subscription or cloud service. You can attach a schedule to this runbook to run it at a specific time.",
+    "Title": "Start Azure V2 VMs",
+    "UpdatedDate": "2016-7-1T00:00:00",
+    "Url": "https://github.com/azureautomation/start-azure-v2-vms#001",
+    "UserTags": "Virtual Machine, Windows Azure Virtual Machines, Azure Automation"
+}
